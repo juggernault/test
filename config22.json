@@ -1,0 +1,14 @@
+{
+    "cron": "0 */5 * * * *",
+    "urls": [
+        {
+            "url": "https://m.cvc.com.br/destinos/uruguai",
+            "plugins": [
+                {
+                    "name": "lighthouse",
+                    "report": true
+                }
+            ]
+        }
+    ]
+}
